@@ -1,2 +1,2 @@
-# sales Bigmart-Sales-Prediction
+# Bigmart-Sales-Prediction
 ## Some Simple "Regression" models in bigmart sales dataset
